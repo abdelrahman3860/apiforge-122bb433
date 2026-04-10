@@ -1,0 +1,17 @@
+```json
+{
+  "name": "seo-optimizer-api",
+  "version": "1.0.0",
+  "description": "SEO Optimizer API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "natural": "^0.6.3",
+    "string": "^3.0.0"
+  }
+}
+```
